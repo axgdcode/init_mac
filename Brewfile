@@ -58,6 +58,7 @@ cask "transmission"
 cask "veracrypt"
 cask "visual-studio-code"
 cask "vlc"
+cask "logi-options-plus"
 
 cask "lulu"
 cask "knockknock"
