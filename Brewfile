@@ -59,6 +59,7 @@ cask "synology-drive"
 cask "tor-browser"
 cask "spotube"
 cask "steam"
+cask "nvidia-geforce-now"
 
 cask "lulu"
 cask "knockknock"
